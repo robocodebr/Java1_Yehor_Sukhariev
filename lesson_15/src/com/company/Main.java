@@ -29,8 +29,7 @@ System.out.println(list.indexOf(str));
 System.out.println(str);
 
 System.out.println(System.currentTimeMillis());
-
-
+System.out.println(true&&false);
 
     }
 }
